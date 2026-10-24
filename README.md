@@ -26,7 +26,7 @@ All 15 skills, their instructions, and supporting files are Emil Kowalski's orig
 
 ## Updating
 
-To pull in upstream changes from Emil's repo later, re-copy the `skills/` folder from [emilkowalski/skills](https://github.com/emilkowalski/skills) and commit.
+To pull in upstream changes from Emil's repo later, re-copy the skills into `plugins/emil-design-skills/skills/` from [emilkowalski/skills](https://github.com/emilkowalski/skills) and commit.
 
 ## Credit
 

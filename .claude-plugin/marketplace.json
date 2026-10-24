@@ -1,50 +1,14 @@
 {
   "name": "emil-design-skills",
-  "description": "Emil Kowalski's design-engineering & animation skills, repackaged as a Cowork/Claude plugin. Original: emilkowalski/skills (MIT).",
+  "description": "Emil Kowalski's design-engineering & animation skills, repackaged for install-by-URL in Cowork and Claude Code.",
   "owner": {
-    "name": "krystianaskywetzel-eng",
-    "email": ""
+    "name": "krystianaskywetzel-eng"
   },
   "plugins": [
     {
       "name": "emil-design-skills",
-      "description": "Animation and design-engineering craft for coding agents: build and review animations, performance, Apple-style motion, mobile-native fixes, UI stress-testing, Sonner, modern Swift, and prototyping. 15 skills from emilkowalski/skills.",
-      "version": "1.0.0",
-      "source": "./",
-      "skills": [
-        "./skills/animate",
-        "./skills/animate-expo",
-        "./skills/animation-performance",
-        "./skills/animation-vocabulary",
-        "./skills/apple-design",
-        "./skills/ask-sonner",
-        "./skills/break-ui",
-        "./skills/emil-design-eng",
-        "./skills/find-animation-opportunities",
-        "./skills/improve-animations",
-        "./skills/mobile-native",
-        "./skills/pick-ui-library",
-        "./skills/prototype",
-        "./skills/review-animations",
-        "./skills/write-swift"
-      ],
-      "author": {
-        "name": "Emil Kowalski",
-        "url": "https://github.com/emilkowalski"
-      },
-      "homepage": "https://github.com/krystianaskywetzel-eng/emil-design-skills",
-      "repository": "https://github.com/krystianaskywetzel-eng/emil-design-skills",
-      "license": "MIT",
-      "keywords": [
-        "skills",
-        "design",
-        "animation",
-        "motion",
-        "frontend",
-        "ui",
-        "craft",
-        "swift"
-      ]
+      "source": "./plugins/emil-design-skills",
+      "description": "Animation and design-engineering craft for coding agents — 15 skills from emilkowalski/skills (MIT)."
     }
   ]
 }

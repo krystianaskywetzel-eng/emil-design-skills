@@ -1,0 +1,12 @@
+{
+  "name": "emil-design-skills",
+  "description": "Emil Kowalski's design-engineering & animation skills (15): build and review animations, performance, Apple-style motion, mobile-native fixes, UI stress-testing, Sonner, modern Swift, and prototyping.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://github.com/emilkowalski"
+  },
+  "homepage": "https://github.com/krystianaskywetzel-eng/emil-design-skills",
+  "license": "MIT",
+  "keywords": ["design", "animation", "motion", "frontend", "ui", "craft", "swift"]
+}
